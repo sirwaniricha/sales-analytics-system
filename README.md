@@ -1,3 +1,5 @@
+# https://github.com/sirwaniricha/sales-analytics-system - bitsom_ba_25071890
+
 # Sales Analytics System
 
 This is a Python project that analyzes sales data and generates reports. It reads transaction data from a text file, validates it, does some analysis, and then enriches the data by calling an external API to get more product information.
